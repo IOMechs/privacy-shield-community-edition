@@ -1,7 +1,5 @@
 # 🛡️ Privacy Shield - Document Redaction Platform
 
-[![alt text](https://img.shields.io/badge/License-MIT-yellow.svg)](https://www.google.com/url?sa=E&q=https%3A%2F%2Fopensource.org%2Flicenses%2FMIT)
-
 ![alt text](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ![alt text](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
