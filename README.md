@@ -86,7 +86,7 @@ Now, follow the instructions for your chosen mode.
 
 ---
 
-### 💻 Running with Firebase Emulator Suite (Recommended)
+### 💻 Running with Firebase Emulator Suite 
 
 This is the easiest way to run the project locally without needing a live Firebase project. The emulators simulate the entire Firebase backend on your machine.
 
@@ -283,13 +283,11 @@ Generated bash
       `pnpm dev`
 
 
-IGNORE_WHEN_COPYING_START
 
-content_copy download
+
 
 Use code [with caution](https://support.google.com/legal/answer/13505487). Bash
 
-IGNORE_WHEN_COPYING_END
 
 The application will now be connected to your live Firebase project.
 
@@ -322,13 +320,11 @@ Generated code
 └── storage.rules     # Cloud Storage security rules`
 
 
-IGNORE_WHEN_COPYING_START
-
-content_copy download
 
 Use code [with caution](https://support.google.com/legal/answer/13505487).
 
-IGNORE_WHEN_COPYING_END
+
+```
 
 ##📜 Available Scripts
 
@@ -358,4 +354,4 @@ Contributions are what make the open-source community such an amazing place to l
 5.  Open a Pull Request
 
 
-```
+
