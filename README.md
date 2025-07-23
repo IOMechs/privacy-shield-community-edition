@@ -1,26 +1,12 @@
-Of course! Here is a comprehensive README.md file tailored for developers looking to contribute to or run the Privacy Shield project. It provides detailed, step-by-step instructions for environment setup, focusing on both the Firebase Emulator Suite for local development and connecting to a live Firebase project.
-
----
-
 # 🛡️ Privacy Shield - Document Redaction Platform
 
 [![alt text](https://img.shields.io/badge/License-MIT-yellow.svg)](https://www.google.com/url?sa=E&q=https%3A%2F%2Fopensource.org%2Flicenses%2FMIT)
 
-[
-
 ![alt text](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-](https://www.google.com/url?sa=E&q=https%3A%2F%2Fnextjs.org%2F)  
-[
 
 ![alt text](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-](https://www.google.com/url?sa=E&q=https%3A%2F%2Ffirebase.google.com%2F)  
-[
-
 ![alt text](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.typescriptlang.org%2F)
 
 Privacy Shield is a web-based platform designed to help users protect sensitive information by redacting Personally Identifiable Information (PII) from their documents. It leverages Google's Gemini for intelligent, AI-powered redaction and provides a fallback to traditional regex-based methods for maximum flexibility.
 
