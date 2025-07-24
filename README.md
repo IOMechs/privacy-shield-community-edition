@@ -6,6 +6,8 @@
 
 Privacy Shield is a web-based platform designed to help users protect sensitive information by redacting Personally Identifiable Information (PII) from their documents. It leverages Google's Gemini for intelligent, AI-powered redaction and provides a fallback to traditional regex-based methods for maximum flexibility.
 
+![App Preview](./public/demo.gif)
+
 ## ✨ Features
 
 - **AI-Powered Redaction**: Utilizes Google Gemini to intelligently find and remove PII from various document types.
@@ -67,7 +69,7 @@ Now, follow the instructions for your chosen mode.
 
 ---
 
-### 💻 Running with Firebase Emulator Suite 
+### 💻 Running with Firebase Emulator Suite
 
 This is the easiest way to run the project locally without needing a live Firebase project. The emulators simulate the entire Firebase backend on your machine.
 
@@ -115,7 +117,7 @@ pnpm dev
 
 Your application will be running at http://localhost:3000 and will automatically connect to the local Firebase emulators.
 
-----------
+---
 
 ### ☁️ Running with a Live Firebase Project
 
